@@ -37,4 +37,4 @@ I am a Software Engineer and Technology Entrepreneur with strong experience in d
 ### 📫 Connect With Me
 - 📧 **Email:** [jibrilmustefa9283@gmail.com](mailto:jibrilmustefa9283@gmail.com)
 - 📍 **Location:** Addis Ababa, Ethiopia
-- 💼 **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com) *(Update link)*
+- 💼 **LinkedIn:** (https://www.linkedin.com/in/jibril-mustefa-mahammod/)
